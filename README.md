@@ -32,6 +32,6 @@ Using the second-order model, we can predict the price of homes in an area using
 ## Author 
 Creston Getz
 
-Southern New Hampshire University – MAT 303
+Southern New Hampshire University – MAT 303(Applied Statistics II for STEM)
 
 
