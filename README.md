@@ -6,6 +6,7 @@ Created as a project for MAT 303 at Southern New Hampshire University.
 
 ## Dataset
 The dataset used in this project can be found on Kaggle at: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+
 Key variables include price, living area, upper-level area, age, bathrooms, view, school rating, and crime rate.
 
 ## Models / Methods
@@ -21,6 +22,7 @@ Using the second-order model, we can predict the price of homes in an area using
 
 ## Author 
 Creston Getz
+
 Southern New Hampshire University – MAT 303
 
 
